@@ -1,0 +1,11 @@
+{
+  "name": "sey-gamerz-escape-room",
+  "version": "2.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/serve.mjs",
+    "validate": "node scripts/validate.mjs"
+  }
+}
